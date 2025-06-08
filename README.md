@@ -2,6 +2,7 @@
 
 Welcome to the **Navigaze** — a Python-based assistant that lets you control your computer using natural voice commands and your face to control your cursor! This project combines speech recognition, gaze-based cursor control, and automation to create a hands-free user experience.
 
+![Navigaze Logo](logo.jpg)
 ---
 
 ## 🔧 Features
