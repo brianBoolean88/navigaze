@@ -48,7 +48,8 @@ Here are some example commands you can use:
 
 ## Tools Needed:
 - Webcam that records entire face
-- Python 3.11
+- Microphone
+- Python 3.11 (install pip too)
 - Computer
 
 1. Install the following Python packages:
