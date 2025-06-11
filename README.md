@@ -44,10 +44,19 @@ Here are some example commands you can use:
 
 ---
 
-## 🖥️ Requirements
+# 🖥️ Installation Guide
 
-Mobile webcam
-Install the following Python packages:
+## Tools Needed:
+- Webcam that records entire face
+- Python 3.11
+- Computer
 
+1. Install the following Python packages:
 ```bash
 pip install opencv-python mediapipe pyautogui SpeechRecognition pyttsx3 pywinauto
+```
+2. Set up the repository to be downloaded/forked over to VSCode or another available IDE.
+3. Run the program (main.py) utilizing Python 3.11
+4. Choose your preferred microphone from the list of available options in the console (1-#).
+5. Choose your preferred webcam from the list of available options in the console (1-#).
+6. Happy tracking :)
