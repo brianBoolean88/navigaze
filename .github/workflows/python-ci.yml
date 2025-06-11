@@ -33,7 +33,7 @@ jobs:
       run: pip install pyinstaller
 
     - name: Build .exe with PyInstaller
-      run: pyinstaller main.py --onefile
+      run: pyinstaller main.py --onefile --collect-all pyaudio
 
     - name: Upload built EXE
       uses: actions/upload-artifact@v4
